@@ -1,8 +1,8 @@
-<h2>안녕하세요, 이창환입니다!</h2>
+## 안녕하세요, 이창환입니다!
 
 **🎂 Birth**
 
-*1999.08.23*
+1999.08.23
 
 **✉️ E-Mail**
 
@@ -12,33 +12,33 @@ lch6890@naver.com
 
 010-9431-6890
 
-### 🛠  Stacks 기술 스택
+### 🛠 Stacks 기술 스택
 
 ---
 
-## Languages
+#### Languages
 
 - Java
 - Python
 - JavaScript
-- C
+-
 
-## Back-End
+#### Back-End
 
 - Java(SpringBoot)
 - Node.js, express
 
-## Front-End
+#### Front-End
 
 - HTML, CSS
 
-## DevOps
+#### DevOps
 
 - MySQL
 - PostgreSQL
 - Docker
 
-## Collaboration & Tools
+#### Collaboration & Tools
 
 - Eclipse, IntelliJ, VS Code
 - Git, Github
