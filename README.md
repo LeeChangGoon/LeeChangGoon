@@ -13,34 +13,31 @@ lch6890@naver.com
 
 010-9431-6890
 
-### 🛠 Stacks 기술 스택
+### 🛠  Stacks 기술 스택
 
 ---
 
-#### Languages
+## Languages
 
 - Java
 - Python
 - JavaScript
--
+- C
 
-#### Back-End
+## Back-End
 
 - Java(SpringBoot)
 - Node.js, express
 
-#### Front-End
+## Front-End
 
 - HTML, CSS
 
-#### DevOps
+## DevOps
 
 - MySQL
 - PostgreSQL
 - Docker
 
-#### Collaboration & Tools
-
-- Eclipse, IntelliJ, VS Code  
-- Git, Github
+## Collaboration & Tools
 </div>
