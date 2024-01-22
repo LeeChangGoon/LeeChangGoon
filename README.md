@@ -12,18 +12,6 @@ lch6890@naver.com
 
 010-9431-6890
 
-🐱 **Github**
-
-https://github.com/leechanghwan-spec
-
-## 🙋‍♂️ About me
-
----
-
-- 도전하며 새로운 걸 배우는 과정을 즐겨요.
-- 한 번 시작한 일은 끝까지 완수해요.
-- 개발 과정에서 항상 사용자의 입장을 생각해요.
-
 ### 🛠  Stacks 기술 스택
 
 ---
